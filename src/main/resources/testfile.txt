@@ -1,0 +1,6 @@
+Create a workbook.
+Create a sheet in the workbook.
+Create a row in the sheet.
+Add cells in the sheet.
+Repeat steps 3 and 4 to write more data.
+Close the output stream.

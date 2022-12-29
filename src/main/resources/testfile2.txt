@@ -1,0 +1,1 @@
+we use the Scanner class to read the contents of the text file
